@@ -13,7 +13,7 @@ _Tenha instalado em sua maquina o [Node.js](http://nodejs.org/) 11.0.0 (ou super
    ou
 
    ```sh
-   yarn
+   yarn install
    ```
 
     o mesmo para o server, entre na pasta e use o comando acima.
