@@ -2,7 +2,7 @@
 
 ## Instalação
 
-_Tenha instalado em sua maquina o [Git](http://git-scm.com/) e [Node.js](http://nodejs.org/) 11.0.0 (ou superior). Utilize NPM para instalar os pacotes Node, caso prefira, instale o [Yarn](https://yarnpkg.com/)._
+_Tenha instalado em sua maquina o [Node.js](http://nodejs.org/) 11.0.0 (ou superior). Utilize NPM para instalar os pacotes Node, caso prefira, instale o [Yarn](https://yarnpkg.com/)._
 
 1. Depois de obter sua cópia local, instale as dependencias do backend e frontend. Entre na pasta client e utilize o comando: 
 
