@@ -32,7 +32,7 @@ ou
 yarn start
 ```
 
-_Isso iniciará o servidor em `localhost:8080`_
+_Isso iniciará o servidor em [localhost:8080](http://localhost:8080/)_
 
 ## Licença
 
